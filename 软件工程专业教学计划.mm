@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1450233199805" ID="ID_838431696" MODIFIED="1460430516230" STYLE="fork" TEXT="&#x3010;167.5&#x5206;&#x3011;&#xa;&#x8f6f;&#x4ef6;&#x5de5;&#x7a0b;&#x4e13;&#x4e1a;&#x8bfe;&#x7a0b;&#x5217;&#x8868;&#xa;1&#x5206;=16&#x5b66;&#x65f6;&#x6216;1&#x5468;">
+<node CREATED="1450233199805" ID="ID_838431696" MODIFIED="1460604685626" STYLE="fork" TEXT="&#x3010;167.5&#x5206;&#x3011;&#xa;&#x8f6f;&#x4ef6;&#x5de5;&#x7a0b;&#x4e13;&#x4e1a;&#x6559;&#x5b66;&#x8ba1;&#x5212;&#xa;1&#x5206;=16&#x5b66;&#x65f6;&#x6216;1&#x5468;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 <node BACKGROUND_COLOR="#ffffff" CREATED="1450233257239" HGAP="-155" ID="ID_1222621933" MODIFIED="1460451146156" POSITION="right" STYLE="fork" TEXT="&#x3010;71&#x5206;&#x3011;&#x4e13;&#x4e1a;&#x5fc5;&#x4fee;&#x8bfe;&#xff08;&#x6240;&#x6709;&#x65b9;&#x5411;&#x90fd;&#x5f00;&#xff09;" VSHIFT="364">
@@ -125,7 +125,7 @@
 <node CREATED="1450233542390" HGAP="109" ID="ID_752896112" MODIFIED="1460451048280" STYLE="fork" TEXT="&#x7b2c;7&#x5b66;&#x671f;" VSHIFT="-26">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-<node CREATED="1450233905401" ID="ID_384445200" MODIFIED="1460429776465" STYLE="fork" TEXT="&#x3010;2&#x5206;&#x3011;&#x7efc;&#x5408;&#x5e94;&#x7528;&#x5f00;&#x53d1;&#x3010;&#x5b9e;&#x8df5;&#x3011;&#xa;&#xff08;&#x53ef;&#x8fdb;&#x884c;&#x5b66;&#x5206;&#x7f6e;&#x6362;&#xff09;">
+<node CREATED="1450233905401" ID="ID_384445200" MODIFIED="1460602292947" STYLE="fork" TEXT="&#x3010;2&#x5206;&#x3011;&#x7efc;&#x5408;&#x5e94;&#x7528;&#x5f00;&#x53d1;&#x3010;&#x5b9e;&#x8df5;&#x3011;&#xff08;&#x53ef;&#x5b66;&#x5206;&#x7f6e;&#x6362;&#xff09;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
@@ -133,7 +133,7 @@
 <node CREATED="1450236847385" HGAP="27" ID="ID_886581221" MODIFIED="1460451050335" STYLE="fork" TEXT="&#x7b2c;8&#x5b66;&#x671f;" VSHIFT="-3">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-<node CREATED="1450236854199" ID="ID_813243188" MODIFIED="1460429776460" STYLE="fork" TEXT="&#x3010;4&#x5206;&#x3011;&#x4e13;&#x4e1a;&#x5b9e;&#x4e60;&#x3010;&#x5b9e;&#x8df5;&#x3011;&#xa;&#xff08;&#x53ef;&#x8fdb;&#x884c;&#x5b66;&#x5206;&#x7f6e;&#x6362;&#xff09;">
+<node CREATED="1450236854199" ID="ID_813243188" MODIFIED="1460602302736" STYLE="fork" TEXT="&#x3010;4&#x5206;&#x3011;&#x4e13;&#x4e1a;&#x5b9e;&#x4e60;&#x3010;&#x5b9e;&#x8df5;&#x3011;&#xff08;&#x53ef;&#x5b66;&#x5206;&#x7f6e;&#x6362;&#xff09;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
@@ -143,7 +143,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1450233269068" HGAP="412" ID="ID_1321990761" MODIFIED="1460431082857" POSITION="right" STYLE="fork" TEXT="&#x3010;21&#x5206;&#x3011;&#x65b9;&#x5411;&#x5fc5;&#x4fee;&#x8bfe;" VSHIFT="-197">
+<node BACKGROUND_COLOR="#ffffff" CREATED="1450233269068" HGAP="403" ID="ID_1321990761" MODIFIED="1460453858513" POSITION="right" STYLE="fork" TEXT="&#x3010;21&#x5206;&#x3011;&#x65b9;&#x5411;&#x5fc5;&#x4fee;&#x8bfe;" VSHIFT="-663">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 <node BACKGROUND_COLOR="#ffffff" CREATED="1450234837189" HGAP="22" ID="ID_608414872" MODIFIED="1460450261428" STYLE="fork" TEXT=".Net" VSHIFT="92">
@@ -204,7 +204,7 @@
 <node CREATED="1450235041735" ID="ID_1868226260" MODIFIED="1460429776454" STYLE="fork" TEXT="&#x7b2c;3&#x5b66;&#x671f;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-<node CREATED="1457257075735" ID="ID_593397844" MODIFIED="1460429776452" STYLE="fork" TEXT="&#x3010;3&#x5206;&#x3011;Java&#x9762;&#x5411;&#x5bf9;&#x8c61;&#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;I&#xa;&#x3010;&#x7406;&#x8bba;+&#x5b9e;&#x8df5;&#x3011;">
+<node CREATED="1457257075735" ID="ID_593397844" MODIFIED="1460602469053" STYLE="fork" TEXT="&#x3010;3&#x5206;&#x3011;Java&#x9762;&#x5411;&#x5bf9;&#x8c61;&#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;I&#xa;&#x3010;&#x7406;&#x8bba;+&#x5b9e;&#x8df5;&#x3011;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
@@ -435,9 +435,11 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1450233294073" HGAP="171" ID="ID_555784687" MODIFIED="1460432837110" POSITION="left" STYLE="fork" TEXT="&#x5404;&#x65b9;&#x5411;&#x5efa;&#x8bae;&#x7684;&#x4efb;&#x610f;&#x9009;&#x4fee;&#x8bfe;&#xff0c;&#x9009;&#x591f;&#x3010;10&#x5206;&#x3011;" VSHIFT="-491">
+<node BACKGROUND_COLOR="#ffffff" CREATED="1450233294073" HGAP="319" ID="ID_555784687" MODIFIED="1460596987189" POSITION="left" STYLE="fork" TEXT="&#x4efb;&#x610f;&#x9009;&#x4fee;&#x8bfe;&#xff0c;&#x9009;&#x591f;&#x3010;10&#x5206;&#x3011;" VSHIFT="-962">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
+<node CREATED="1460597526867" HGAP="18" ID="ID_1296752683" MODIFIED="1460604195957" TEXT="&#x5404;&#x65b9;&#x5411;&#x5efa;&#x8bae;&#x7684;&#x5176;&#x4ed6;&#x9009;&#x4fee;&#x8bfe;" VSHIFT="-175">
+<font NAME="SansSerif" SIZE="25"/>
 <node CREATED="1452580251586" ID="ID_587615867" MODIFIED="1460429776417" STYLE="fork" TEXT="&#x9ad8;&#x7ea7;&#x6570;&#x5b66;&#xff08;&#x4e00;&#xff09;&#xa;&#x3010;4&#x5206;&#xff0c;&#x7b2c;4&#x5b66;&#x671f;&#xff0c;&#x9762;&#x5411;&#x8003;&#x7814;&#x5b66;&#x751f;&#x3011;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
@@ -503,14 +505,15 @@
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
+<node CREATED="1457401349255" ID="ID_313635263" MODIFIED="1460602713678" TEXT="&#x3010;&#x7406;&#x8bba;&#x3011;UML&#x3010;2&#x5206;&#x3011;">
+<font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
+</node>
+</node>
 <node CREATED="1453429510467" HGAP="162" ID="ID_720602636" MODIFIED="1460450250833" TEXT=".Net" VSHIFT="9">
 <font NAME="SansSerif" SIZE="28"/>
 <node CREATED="1453429700269" ID="ID_1342924218" MODIFIED="1460451388804" TEXT="&#x7b2c;3&#x5b66;&#x671f;">
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-<node CREATED="1457401349255" ID="ID_313635263" MODIFIED="1460431922783" TEXT="&#x3010;&#x7406;&#x8bba;&#x3011;UML&#x3010;1&#x5206;&#x3011;">
-<font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-</node>
-<node CREATED="1457401373282" ID="ID_484708986" MODIFIED="1460431929951" TEXT="&#x3010;&#x7406;&#x8bba;&#x3011;&#x8f6f;&#x4ef6;UI&#x8bbe;&#x8ba1;&#x6280;&#x672f;&#x57fa;&#x7840;&#x3010;1&#x5206;&#x3011;">
+<node CREATED="1457401373282" ID="ID_484708986" MODIFIED="1460602694094" TEXT="&#x3010;&#x7406;&#x8bba;&#x3011;&#x8f6f;&#x4ef6;UI&#x8bbe;&#x8ba1;&#x6280;&#x672f;&#x3010;2&#x5206;&#x3011;">
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
 </node>
@@ -660,13 +663,13 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1450174264440" HGAP="353" ID="ID_719220489" MODIFIED="1460450877913" POSITION="right" STYLE="fork" TEXT="&#x3010;12&#x5206;&#x3011;&#x521b;&#x4e1a;&#x8bfe;&#x7a0b;" VSHIFT="-1642">
+<node BACKGROUND_COLOR="#ffffff" CREATED="1450174264440" HGAP="345" ID="ID_719220489" MODIFIED="1460453852760" POSITION="right" STYLE="fork" TEXT="&#x3010;12&#x5206;&#x3011;&#x521b;&#x4e1a;&#x8bfe;&#x7a0b;" VSHIFT="-1139">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 <node CREATED="1450174272189" ID="ID_1341375565" MODIFIED="1460429776428" STYLE="fork" TEXT="&#x7b2c;2&#x5b66;&#x671f;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
-<node CREATED="1450174303638" ID="ID_1554233352" MODIFIED="1460429776428" STYLE="fork" TEXT="&#x3010;&#x7406;&#x8bba;+&#x5b9e;&#x8df5;&#x3011;&#x5927;&#x5b66;&#x751f;&#x521b;&#x4e1a;&#x57fa;&#x7840;&#x3010;3&#x5206;&#x3011;">
+<node CREATED="1450174303638" ID="ID_1554233352" MODIFIED="1460602342791" STYLE="fork" TEXT="&#x3010;&#x7406;&#x8bba;+&#x5b9e;&#x8df5;&#x3011;&#x5927;&#x5b66;&#x751f;&#x521b;&#x4e1a;&#x4e0e;&#x5c31;&#x4e1a;&#x3010;3&#x5206;&#x3011;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
@@ -714,6 +717,11 @@
 <node CREATED="1450237609408" ID="ID_403626592" MODIFIED="1460429776361" STYLE="fork" TEXT="&#x901a;&#x8bc6;&#x5fc5;&#x4fee;&#x8bfe;&#x3010;33.5&#x5206;&#x3011;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
+<node CREATED="1450237609408" ID="ID_360073920" MODIFIED="1460601790435" STYLE="fork" TEXT="&#x3010;&#x7406;&#x8bba;&#x3011;&#x5b66;&#x4e1a;&#x6307;&#x5bfc;&#x3010;0.5&#x5206;&#x3011;">
+<edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
+<font NAME="&#x9ed1;&#x4f53;" SIZE="29"/>
+<icon BUILTIN="info"/>
+</node>
 </node>
 <node CREATED="1450237618260" ID="ID_412393446" MODIFIED="1460429776358" STYLE="fork" TEXT="&#x901a;&#x8bc6;&#x9009;&#x4fee;&#x8bfe;&#xff08;&#x5c14;&#x96c5;&#x7f51;&#x7edc;&#x8bfe;&#x7a0b;&#xff09;&#x3010;3.5&#x5206;&#x3011;">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
@@ -724,7 +732,7 @@
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1458278776741" HGAP="-148" ID="ID_81986792" MODIFIED="1460451051466" POSITION="left" STYLE="fork" TEXT="&#xff08;&#x6309;&#x5b66;&#x6821;&#x89c4;&#x5b9a;&#xff09;&#x5927;&#x5b66;&#x751f;&#x7efc;&#x5408;&#x5b9e;&#x8df5;&#x3010;10&#x5206;&#x3011;" VSHIFT="294">
+<node BACKGROUND_COLOR="#ffffff" CREATED="1458278776741" HGAP="-166" ID="ID_81986792" MODIFIED="1460453879689" POSITION="left" STYLE="fork" TEXT="&#xff08;&#x6309;&#x5b66;&#x6821;&#x89c4;&#x5b9a;&#xff09;&#x5927;&#x5b66;&#x751f;&#x7efc;&#x5408;&#x5b9e;&#x8df5;&#x3010;10&#x5206;&#x3011;" VSHIFT="412">
 <edge COLOR="#808080" STYLE="sharp_bezier" WIDTH="2"/>
 <font NAME="&#x9ed1;&#x4f53;" SIZE="28"/>
 </node>
